@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KillPort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KillPort_jar</output-path>
+    <root id="archive" name="KillPort.jar">
+      <element id="module-output" name="KillPort" />
+    </root>
+  </artifact>
+</component>
